@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;panel&apos; in &apos;GameWindow&apos; to &apos;gamePanel&apos;&#x0A;- Original project: &apos;Level2Project&apos;&#x0A;- Original element: &apos;GameWindow.panel&apos;&#x0A;- Renamed element: &apos;GameWindow.gamePanel&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;panel&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;{GameWindow.java[GameWindow^panel" name="gamePanel" references="true" setter="false" stamp="1466270600630" textual="false" version="1.0"/>
+</session>

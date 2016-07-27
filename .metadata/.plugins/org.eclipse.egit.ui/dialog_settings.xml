@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<item value="true" key="CommitDialog.showUntracked"/>
+	<item value="/Users/league/git/Level-3/.git" key="GitSelectRepositoryPage.lastRepository"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/alexisrose/IntroToJavaWorkshop"/>
+		<item value="https://github.com/jointheleague/CleverRPiRobot.git"/>
+		<item value="https://github.com/jointheleague/RPiGreenbot.git"/>
+		<item value="file:////Users/league/Desktop/Level-3"/>
+		<item value="https://github.com/BigRockerEnding/APComputerScienceS.git"/>
+		<item value="https://github.com/NicholasContreras/ImmutableList"/>
+		<item value="https://github.com/PhazeIllusions/Lv-0-Eclipse"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="Wintress Mac &lt;DON&apos;T CHANGE THIS&gt;"/>
+		<item value="Savera &lt;Level 2&gt;"/>
+		<item value="PhazeIllusions &lt;league@imac.attlocal.net&gt;"/>
+		<item value="league &lt;league@imac.attlocal.net&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Wintress Mac &lt;DON&apos;T CHANGE THIS&gt;"/>
+		<item value="Savera &lt;Level 2&gt;"/>
+		<item value="PhazeIllusions &lt;league@imac.attlocal.net&gt;"/>
+		<item value="league &lt;league@imac.attlocal.net&gt;"/>
+	</list>
+	<section name="GitImportWizard">
+		<item value="true" key="GitProjectsImportPage.STORE_NESTED_PROJECTS"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item value="650" key="DIALOG_WIDTH"/>
+		<item value="1|Menlo|11.0|0|COCOA|1|Menlo-Regular" key="DIALOG_FONT_NAME"/>
+		<item value="440" key="DIALOG_HEIGHT"/>
+		<item value="635" key="DIALOG_X_ORIGIN"/>
+		<item value="195" key="DIALOG_Y_ORIGIN"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.COMMIT_DIALOG_SECTION">
+		<item value="626" key="DIALOG_WIDTH"/>
+		<item value="1|Menlo|11.0|0|COCOA|1|Menlo-Regular" key="DIALOG_FONT_NAME"/>
+		<item value="623" key="DIALOG_HEIGHT"/>
+		<item value="647" key="DIALOG_X_ORIGIN"/>
+		<item value="73" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+	</section>
+</section>

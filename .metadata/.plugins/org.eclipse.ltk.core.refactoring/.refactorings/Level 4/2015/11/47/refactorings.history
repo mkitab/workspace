@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;LovelyPalindromes.java&apos; to &apos;maronj LvL4&apos;&#x0A;- Original project: &apos;Level 4&apos;&#x0A;- Destination element: &apos;maronj LvL4&apos;&#x0A;- Original element: &apos;LovelyPalindromes.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=maronj LvL4" element1="/src&lt;{LovelyPalindromes.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1447895085618" units="1" version="1.0"/>
+</session>

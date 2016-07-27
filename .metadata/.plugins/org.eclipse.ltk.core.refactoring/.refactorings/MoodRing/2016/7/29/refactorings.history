@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;org.jointheleague.gerings17.rpi.moodRingCode&apos; to &apos;MoodRingCode&apos;&#x0A;- Original project: &apos;MoodRing&apos;&#x0A;- Original element: &apos;org.jointheleague.gerings17.rpi.moodRingCode&apos;&#x0A;- Renamed element: &apos;org.jointheleague.gerings17.rpi.MoodRingCode&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;moodRingCode&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;org.jointheleague.gerings17.rpi{moodRingCode.java[moodRingCode" matchStrategy="1" name="MoodRingCode" qualified="false" references="true" similarDeclarations="false" stamp="1468708804511" textual="false" version="1.0"/>
+</session>

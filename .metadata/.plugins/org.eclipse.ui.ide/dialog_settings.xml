@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CleanDialogSettings">
+		<item value="563" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="360" key="DIALOG_HEIGHT"/>
+		<item value="678" key="DIALOG_X_ORIGIN"/>
+		<item value="288" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/league/Desktop/Level-0"/>
+			<item value="/Users/league/Desktop/Level0-master"/>
+			<item value="/Users/league/Desktop/Level-One"/>
+			<item value="/Users/league/IntroToJavaWorkshop"/>
+			<item value="/Users/league/Desktop/IntroToJavaWorkshop"/>
+			<item value="/Users/league/Desktop/Level1"/>
+			<item value="/Users/league/Desktop/MoodRing"/>
+			<item value="/Users/league/Desktop/Level-0-Saturdays"/>
+			<item value="/Users/league/Desktop/level1"/>
+			<item value="/Users/league/Desktop/Intro-to-Java-Workshop"/>
+			<item value="/Users/league/Downloads/Java-Pong-master"/>
+			<item value="/Users/league/Desktop/Level-1"/>
+			<item value="/Users/league/Desktop/level-1"/>
+			<item value="/Users/league/Desktop/LVL-0"/>
+			<item value="/Users/league/Desktop/Level2Project"/>
+			<item value="/Users/league/Desktop/Level-Two"/>
+			<item value="/Users/league/Desktop/Level-Zero"/>
+			<item value="/Users/league/Desktop/Block-Escape"/>
+			<item value="/Users/league/Desktop/rubiks-cube-simulator-develop"/>
+			<item value="/Users/league/Desktop/Level-3"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.ui.wizards.new.project" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="216" key="DIALOG_X_ORIGIN"/>
+		<item value="222" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="526" key="DIALOG_WIDTH"/>
+		<item value="1|.SF NS Text|11.0|0|COCOA|1|.SFNSText-Regular" key="DIALOG_FONT_NAME"/>
+		<item value="529" key="DIALOG_HEIGHT"/>
+		<item value="249" key="DIALOG_X_ORIGIN"/>
+		<item value="22" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;level1/src/level1/Jeopardy Theme Song.mp3&apos; to &apos;song.mp3&apos;" description="Rename resource &apos;Jeopardy Theme Song.mp3&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/level1/Jeopardy Theme Song.mp3" name="song.mp3" stamp="1468457509406" updateReferences="true"/>
+</session>
